@@ -1,7 +1,7 @@
 Bonjour, je fais ce petit guide avant tout pour mon entourage, mais je ne suis pas contre le fait qu'il circule ou qu'il soit partagé. 
 ## Contexte - Pourquoi se degafamiser
 
-> Je vais raconté viteuf le pourquoi du comment et de comment ça marche mais si vous avez la flemme de lire je vous invite a cliquer ici [[Comment (Essayer) d'arrêter de donner de l'argent aux milliardaire#TLDR]] pour rentrer dans le vif du sujet
+> Je vais raconté viteuf le pourquoi du comment et de comment ça marche mais si vous avez la flemme de lire je vous invite a cliquer [ici](https://louisviktorceleyron.github.io/GuideOpenSource/Comment%20(Essayer)%20d'arr%C3%AAter%20de%20donner%20de%20l'argent%20aux%20milliardaire) pour rentrer dans le vif du sujet
 
 Perso ça a commencé avec une phase de dep. 
 

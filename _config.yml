@@ -215,7 +215,7 @@ defaults:
       show_subscribe: true
       pageview: true
 
-theme: jekyll-text-theme
+remote_theme: kitian616/jekyll-TeXt-theme
 
 ## => Plugins
 ##############################
@@ -223,4 +223,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
   - jemoji

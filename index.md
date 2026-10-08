@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: article
 title: DeGafam
 # articles:
 #   excerpt_type: html

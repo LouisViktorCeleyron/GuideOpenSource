@@ -1,6 +1,8 @@
 ---
 layout: article
 title: DeGafam
+sidebar: 
+    nav: layout
 # articles:
 #   excerpt_type: html
 ---
